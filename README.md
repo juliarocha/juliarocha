@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hello, World! 
+### This is Julia! 👋
 
+
+
+- 📫 How to reach me: [my email](mailto:juliaafr@outlook.com), [my Linkedin profile](https://www.linkedin.com/in/juliaafrocha/).
+
+  
 <!--
 **juliarocha/juliarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
